@@ -1,0 +1,106 @@
+INT 	 6 
+LDA 	 0 
+LDI 	 17.50 
+STO 
+LDA 	 1 
+LDI 	 555 
+STO 
+LDA 	 0 
+LDV 
+PRN 
+LDA 	 1 
+LDV 
+PRN 
+LDA 	 3 
+LDI 	 5.50 
+STO 
+LDA 	 2 
+LDI 	 3 
+STO 
+LDA 	 2 
+LDV 
+PRN 
+LDA 	 3 
+LDV 
+PRN 
+LDA 	 4 
+LDA 	 2 
+LDV 
+LDA 	 3 
+LDV 
+SUB 
+STO 
+LDA 	 5 
+LDA 	 2 
+LDV 
+LDA 	 3 
+LDV 
+SUB 
+STO 
+LDA 	 4 
+LDV 
+PRN 
+LDA 	 5 
+LDV 
+PRN 
+LDA 	 4 
+LDA 	 2 
+LDV 
+LDA 	 3 
+LDV 
+ADD 
+STO 
+LDA 	 5 
+LDA 	 2 
+LDV 
+LDA 	 3 
+LDV 
+ADD 
+STO 
+LDA 	 4 
+LDV 
+PRN 
+LDA 	 5 
+LDV 
+PRN 
+LDA 	 4 
+LDA 	 2 
+LDV 
+LDA 	 3 
+LDV 
+MUL 
+STO 
+LDA 	 5 
+LDA 	 2 
+LDV 
+LDA 	 3 
+LDV 
+MUL 
+STO 
+LDA 	 4 
+LDV 
+PRN 
+LDA 	 5 
+LDV 
+PRN 
+LDA 	 4 
+LDA 	 2 
+LDV 
+LDA 	 3 
+LDV 
+DIV 
+STO 
+LDA 	 5 
+LDA 	 2 
+LDV 
+LDA 	 3 
+LDV 
+DIV 
+STO 
+LDA 	 4 
+LDV 
+PRN 
+LDA 	 5 
+LDV 
+PRN 
+HLT 
