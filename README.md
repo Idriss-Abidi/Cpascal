@@ -9,9 +9,6 @@
 - pcode_exporter.h:gestion de pcode 
 - main.c: fichier Main contenant l'interpreteur .
 
-## Grammaire
-
-Grammaire modifiée :
 
 ## Grammaire
 
